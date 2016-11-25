@@ -51,6 +51,7 @@ body
 .input
 {
 	position:relative;
+	padding-top:5px;
 	float:left;
 	margin-left:30px;
 	border-bottom-color: #ffffff;
