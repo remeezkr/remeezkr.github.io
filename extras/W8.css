@@ -51,6 +51,7 @@ body
 .input
 {
 	position:relative;
+	margin-left:25%;
 	border-bottom-color: #ffffff;
         border-bottom-left-radius: 5px;
         border-bottom-right-radius: 5px;
