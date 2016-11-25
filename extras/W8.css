@@ -51,23 +51,24 @@ body
 .input
 {
 	position:relative;
-	border-bottom-color: #fff;
+	border-bottom-color: #ffffff;
         border-bottom-left-radius: 5px;
         border-bottom-right-radius: 5px;
         border-bottom-style: solid;
         border-bottom-width: 5px;
-        border-left-color: #fff;
+        border-left-color: #ffffff;
         border-left-style: solid;
         border-left-width: 5px;
-        border-right-color: #fff;
+        border-right-color: #ffffff;
         border-right-style: solid;
         border-right-width: 5px;
-        border-top-color: #ffff;
+        border-top-color: #ffffff;
         border-top-left-radius: 5px;
         border-top-right-radius: 5px;
         border-top-style: solid;
         border-top-width: 5px;
-	top:20px;
+	top:30px;
+	font-family:sans;
 }
 #button
 {
