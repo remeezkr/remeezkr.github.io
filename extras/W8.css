@@ -38,7 +38,7 @@ body
 	height:match-parent;
 	color:#555;
 	font-size: 30px;
-	font-family: Curved;
+	font-family: balker;
 }
 #logo
 {
@@ -168,7 +168,7 @@ span
 	color:white;
 	font-size: 20px;
 	//text-shadow:1px 1px 2px black;
-	font-family: sans-serif;
+	font-family: balker;
 }
 
 
