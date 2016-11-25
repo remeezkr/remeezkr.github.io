@@ -80,12 +80,12 @@ body
 	padding: 10px 15px 11px !important;
 	font-size: 18px !important;
 	font-family: serif;
-	background-color: #b20025;
+	background-color: #650b1e;
 	font-weight: bold;
-	text-shadow: 1px 1px #b20025;
+	text-shadow: 1px 1px #650b1e;
 	color: #ffffff;
 	border-radius: 5px;
-	border: 1px solid #b20025;
+	border: 1px solid #650b1e;
 	cursor: pointer;
 	box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
 	margin-top:40px;
@@ -93,7 +93,7 @@ body
 }
 #button:hover
 {
-	background-color: #c22045;
+	transition: background-color #c22045;
 }
 #metro
 {
