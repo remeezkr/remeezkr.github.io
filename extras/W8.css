@@ -93,7 +93,8 @@ body
 }
 #button:hover
 {
-	transition: background-color #c22045;
+	transition: background 1s;
+	background-color: #c22045;
 }
 #metro
 {
