@@ -52,21 +52,21 @@ body
 {
 	position:relative;
 	border-bottom-color: #b3b3b3;
-    border-bottom-left-radius: 3px;
-    border-bottom-right-radius: 3px;
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
-    border-left-color: #b3b3b3;
-    border-left-style: solid;
-    border-left-width: 1px;
-    border-right-color: #b3b3b3;
-    border-right-style: solid;
-    border-right-width: 1px;
-    border-top-color: #b3b3b3;
-    border-top-left-radius: 3px;
-    border-top-right-radius: 3px;
-    border-top-style: solid;
-    border-top-width: 1px;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+        border-bottom-style: solid;
+        border-bottom-width: 1px;
+        border-left-color: #b3b3b3;
+        border-left-style: solid;
+        border-left-width: 3px;
+        border-right-color: #b3b3b3;
+        border-right-style: solid;
+        border-right-width: 3px;
+        border-top-color: #b3b3b3;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+        border-top-style: solid;
+        border-top-width: 3px;
 	top:20px;
 }
 #button
